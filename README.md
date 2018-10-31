@@ -1,5 +1,6 @@
 # Wes Bos redux course notes
 
+`$r.store` 
 
 ## Actions: something that happens in you application.
 
