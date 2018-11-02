@@ -14,3 +14,9 @@
 #### Then there is a payload
 - data to be acted upon
 - information that is supplied by the actionCreator
+
+### createStore has three methods
+
+1) getStore() returns the current state.
+2) dispatch( action ) dispatches an action to the state to create a new state.
+3) subribe() updates the UI
