@@ -51,6 +51,7 @@ const visibilityFilter = (
     }
 };
 
+// can be replaced by comdineReducers
 const todoApp = (state = {}, action) => {
     return {
         todos: todos(
